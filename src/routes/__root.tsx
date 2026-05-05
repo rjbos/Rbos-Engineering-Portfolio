@@ -90,7 +90,7 @@ function Footer() {
             <span className="flex h-8 w-8 items-center justify-center rounded-xl bg-white text-slate-950">
               <Wrench className="h-4 w-4" />
             </span>
-            <span className="text-base font-bold tracking-tight">Reuben Bose</span>
+            <span className="text-base font-bold tracking-tight">Roger Bos</span>
           </div>
           <p className="max-w-sm text-sm leading-relaxed text-slate-400">
             Mechanical engineer working at the intersection of design, simulation, and embedded systems.
